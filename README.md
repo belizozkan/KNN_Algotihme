@@ -161,7 +161,7 @@ Ces résultats suggèrent que l'algorithme a identifié certains thèmes ou suje
 
 10. Il serait intéressant d'utiliser une méthode différente pour calculer la moyenne des scores de similarité telle que la moyenne pondérée. Cette méthode donnerait plus de poids aux vecteurs les plus similaires, ce qui pourrait améliorer la précision de la classification.
 
-11. Il est possible d'utiliser la mèthoe TDF-IDF pour améliorer le résultat de la mèthode classify.
+11. Il est possible d'utiliser la mèthode TF-IDF pour améliorer le résultat de la mèthode classify.
 
 
 ## text.txt
